@@ -1,7 +1,9 @@
-import "./App.css";
+import React from "react"
+import "./App.css"
+import Home from "../src/pages/Home"
 
 function App() {
-  return <h1>FII Practic 2023</h1>;
+  return <Home />
 }
 
-export default App;
+export default App

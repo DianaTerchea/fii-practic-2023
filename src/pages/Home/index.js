@@ -1,3 +1,7 @@
-export default    function Home(){
-         return <h1>Home component text</h1>
+import React from "react"
+
+function Home() {
+  return <h1>HEI SUNT IN Home</h1>
 }
+
+export default Home
