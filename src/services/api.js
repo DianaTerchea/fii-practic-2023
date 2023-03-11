@@ -1,0 +1,1 @@
+export const fetchAllMemes = () => console.log("I am fetching all memes");
